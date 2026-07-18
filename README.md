@@ -15,14 +15,18 @@
 ### 🧠 About Me
 
 ```yaml
-name: Harsh Raj
-role: Software Engineer — Generative AI & Cloud
-experience: 2+ years
-currently_building: AI-driven solutions using RAG, Agents & Knowledge Graphs
-education: 
-  - B.Tech, Computer Science — Arya Institute of Engineering & Technology
-  - MBA, Data Science — Amity University
-fun_fact: I teach LLMs how to reason, then remind them to stay in scope 😄
+Name: Harsh Raj
+Role: Software Engineer — Generative AI
+Experience: 3+ years
+Organization: Tata Consultancy Services Ltd.
+
+Currently Building: Intelligent AI solutions powered by Retrieval-Augmented Generation (RAG), AI Agents, and Knowledge Graphs.
+
+Education:
+  - B.Tech in Computer Science — Arya Institute of Engineering & Technology, Jaipur
+  - MBA in Data Science — Amity University, Noida
+
+Fun Fact: I spend my days teaching LLMs to think more effectively—and occasionally reminding them not to wander beyond the prompt. 😄
 ```
 
 - 🔭 Designing AI-driven solutions using **RAG**, **Knowledge Graphs**, **Vector Databases**, and **Agentic AI**
@@ -34,7 +38,7 @@ fun_fact: I teach LLMs how to reason, then remind them to stay in scope 😄
 
 ---
 
-### 🧰 My Toolbox
+### 🧰 Tech Stack
 
 <div align="center">
 
