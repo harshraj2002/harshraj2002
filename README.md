@@ -71,11 +71,17 @@ Education:
 
 | Certification | Issuer |
 |---|---|
+| Agentic AI Business Solutions Architect | Microsoft |
+| Architect Foundations | Claude |
+| Agentic AI Developer | GitHub |
 | Azure AI Engineer Associate | Microsoft |
 | AWS AI Practitioner | AWS |
 | Generative AI Leader | Google Cloud |
 | Generative AI Fundamentals | Databricks |
-| GitHub Copilot Certified | GitHub |
+| Developer Foundations | Claude |
+| GitHub Copilot | GitHub |
+| Sovereign Cloud Proficient | Microsoft |
+| Data Engineer Professional | Databricks |
 
 ---
 
